@@ -226,10 +226,8 @@ TR:Türkiye
 TT:Trinidad and Tobago 
 TV:Tuvalu 
 TW:Taiwan, Province of China 
-IS: country name follows UN designation (due to political status of Taiwan within the UN)[
 TZ:Tanzania, United Republic of 
 UA:Ukraine 
-Co:e assigned as the country was already a UN member since 
 UG:Uganda 
 UM:United States Minor Outlying Islands 
 US:United States of America 
