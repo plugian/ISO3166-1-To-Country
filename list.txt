@@ -26,7 +26,7 @@ BJ:Benin
 BL:Saint Barthélemy 
 BM:Bermuda 
 BN:Brunei Darussalam 
-BO:Bolivia (Plurinational State of) 
+BO:Bolivia
 BQ:Bonaire, Sint Eustatius and Saba 20
 BR:Brazil 
 BS:Bahamas 
@@ -37,7 +37,7 @@ BY:Belarus
 BZ:Belize 
 CA:Canada 
 CC:Cocos (Keeling) Islands 
-CD:Congo, Democratic Republic of the 
+CD:Congo
 CF:Central African Republic 
 CG:Congo 
 CH:Switzerland 
@@ -70,7 +70,7 @@ ET:Ethiopia
 FI:Finland 
 FJ:Fiji 
 FK:Falkland Islands (Malvinas) 
-FM:Micronesia (Federated States of) 
+FM:Micronesia
 FO:Faroe Islands 
 FR:France 
 GA:Gabon 
@@ -105,7 +105,7 @@ IM:Isle of Man
 IN:India 
 IO:British Indian Ocean Territory 
 IQ:Iraq 
-IR:Iran (Islamic Republic of) 
+IR:Iran
 IS:Iceland 
 IT:Italy 
 JE:Jersey 
@@ -118,8 +118,8 @@ KH:Cambodia
 KI:Kiribati 
 KM:Comoros 
 KN:Saint Kitts and Nevis 
-KP:Korea (Democratic People's Republic of) 
-KR:Korea, Republic of 
+KP:Korea (North)
+KR:Korea
 KW:Kuwait 
 KY:Cayman Islands 
 KZ:Kazakhstan 
@@ -136,7 +136,7 @@ LV:Latvia
 LY:Libya 
 MA:Morocco 
 MC:Monaco 
-MD:Moldova, Republic of 
+MD:Moldova
 ME:Montenegro 
 MF:Saint Martin (French part) 
 MG:Madagascar 
@@ -163,7 +163,7 @@ NE:Niger
 NF:Norfolk Island 
 NG:Nigeria 
 NI:Nicaragua 
-NL:Netherlands, Kingdom of the 
+NL:Netherlands
 NO:Norway 
 NP:Nepal 
 NR:Nauru 
@@ -180,7 +180,7 @@ PL:Poland
 PM:Saint Pierre and Miquelon 
 PN:Pitcairn 
 PR:Puerto Rico 
-PS:Palestine, State of 
+PS:Palestine
 PT:Portugal 
 PW:Palau 
 PY:Paraguay 
